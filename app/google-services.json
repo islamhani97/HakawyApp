@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674564858267",
+    "project_id": "hakawyapp-bcc2b",
+    "storage_bucket": "hakawyapp-bcc2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674564858267:android:6b3f90dfa71d239ae1413e",
+        "android_client_info": {
+          "package_name": "com.islam.hakawyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674564858267-1j45qnl3c6b72mhflpvh7u5bo87m2uq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhk6Oesze4SjVy79HQKsWhimUoQh3q5Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674564858267-1j45qnl3c6b72mhflpvh7u5bo87m2uq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
