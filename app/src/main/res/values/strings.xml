@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">HakawyApp</string>
+
+
+
+
+    <string name="phone_number">Phone Number</string>
+    <string name="next">Next</string>
+    <string name="phone_number_required">Enter Phone Number</string>
+    <string name="username">User Name</string>
+    <string name="submit">Submit</string>
+    <string name="username_required">Enter User Name</string>
+    <string name="agree">Agree</string>
+
+    <string name="error_invalid_auth_code">Invalid code</string>
+    <string name="error_server">Server error</string>
+    <string name="error_unknown">Unknown error</string>
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_incorrect_phone_number">Phone number is incorrect</string>
+    <string name="error_network">network connection error</string>
+    <string name="retry">Retry</string>
 </resources>
